@@ -1,0 +1,341 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short brotherly examination of a sermon. At first preached by Mr Salomon Saffery, and after published in print; intituled, Part of a discourse, tending only to invite those that believe in Christ, to be conformable to him by baptisme. But intending to disswade from infant-baptisme. / By Robert Pittillok, a Scottish man.</title>
+            <author>Pittilloh, Robert, 1621?-1698.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 50 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04710</idno>
+            <idno type="STC">Wing P2312A</idno>
+            <idno type="STC">ESTC R187082</idno>
+            <idno type="EEBO-CITATION">52612212</idno>
+            <idno type="OCLC">ocm 52612212</idno>
+            <idno type="VID">179516</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04710)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179516)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2791:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short brotherly examination of a sermon. At first preached by Mr Salomon Saffery, and after published in print; intituled, Part of a discourse, tending only to invite those that believe in Christ, to be conformable to him by baptisme. But intending to disswade from infant-baptisme. / By Robert Pittillok, a Scottish man.</title>
+                  <author>Pittilloh, Robert, 1621?-1698.</author>
+               </titleStmt>
+               <extent>20 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Evan Tyler,</publisher>
+                  <pubPlace>Printed at Leith :</pubPlace>
+                  <date>Anno Dom. 1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Saffery, Salomon. --  Part of a discourse, tending only to invite those that believe in Christ, to be conformable to him by baptisme. But intending to disswade from infant-baptisme.</term>
+               <term>Church of Scotland --  Sermons --  17th century.</term>
+               <term>Bible. --  O.T. --  Isaiah XLIII, 22 --  Commentaries --  Early works to 1800.</term>
+               <term>Baptism --  Sermons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:179516:1" rendition="simple:additions"/>
+            <p>A SHORT BROTHERLY EXAMINATION OF A SERMON.</p>
+            <p>At firſt Preached by <hi>M<hi rend="sup">r</hi> SALOMON SAFFERY,</hi> And after publiſhed in Print; INTITULED, Part of a DISCOURSE, Tending only to invite thoſe that believe in CHRIST, to be conformable to him by Baptiſme. But intending to diſſwade from Infant-Baptiſme.</p>
+            <q>
+               <bibl>
+                  <hi>Text ISAIAH 43.22.</hi>
+               </bibl>
+               <p>But thou haſt not called upon me, O Jacob, but thou haſt been wea<g ref="char:EOLhyphen"/>ry of me, O Iſrael.</p>
+            </q>
+            <p>By <hi>ROBERT PITTILLOK,</hi> a Scottiſh man.</p>
+            <p>Printed at <hi>Leith</hi> by <hi>Evan Tyler, Anno Dom.</hi>
+1652.</p>
+            <pb facs="tcp:179516:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:179516:3"/>
+            <opener>
+               <salute>Chriſtian Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">S</seg>Eeing theſe are dayes wherein <hi>Scribimus indocti, doctique poemata paſſim,</hi> I purpoſe to make no more Apologie for my under-taking in the follow<g ref="char:EOLhyphen"/>ing animadverſions; but knowing of none either abler or weaker ſetting to work for diſcovering ſuch rocks in the Trea<g ref="char:EOLhyphen"/>tiſe to which they relate (as we conceive) might prove ſtumbling blocks to the weak; we conceived, our duty was, it coming to the hands of many of thoſe, among whom at preſent, the Lord hath honoured us to labour in the Goſpel, to ſet a hand upon the mar<g ref="char:EOLhyphen"/>gin, for diſcovery of ſuch dangers, as either might affect thoſe that are not able to diſcern, or through manifold imployments, have not ſuch leiſure to ponder: Wherein our purpoſe is not ei<g ref="char:EOLhyphen"/>ther to ſpeak againſt the perſon of the Author, or exaſperate the ſpirits of any of our contrary-minded Brethren (ſome whereof known to us, we look upon as eminent Saints of the moſt High) but in modesty and ſobriety, to <hi>contend for the ſaith once gi<g ref="char:EOLhyphen"/>ven unto the Saints,</hi> and act in our ſtation for the truth, with a heart willing to take with our guilt, and lay our hand upon our mouth, when by the golden rule of the Sanctuary, we are convin<g ref="char:EOLhyphen"/>ced to have gone aſtray. If thou findeſt hereby any ſpirituall ad<g ref="char:EOLhyphen"/>vantage, he hath his reward, who is</p>
+            <closer>
+               <dateline>
+                  <hi>Leith,</hi> from my Quar<g ref="char:EOLhyphen"/>ters
+<date>
+                     <hi>May</hi> 5. 1652.</date>
+               </dateline>
+               <signed>Thine as thou art a fol<g ref="char:EOLhyphen"/>lower of CHRIST, <hi>RO. PITTILLOK.</hi>
+               </signed>
+            </closer>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>1. Cor. 14.32.</hi>
+                  </bibl>
+                  <p>The ſpirits of the Prophets, are ſubject to the Prophets.</p>
+               </q>
+               <q>
+                  <bibl>
+                     <hi>1. Theſſ. 5.21.</hi>
+                  </bibl>
+                  <p>Prove all things, hold faſt that which is good.</p> 
+               </q>
+            </epigraph>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="3" facs="tcp:179516:3"/>
+            <head>A ſhort Brotherly Examination of a SERMON, At firſt Preached by M<hi rend="sup">r</hi> 
+               <hi>Salomon Saffery,</hi> And after publiſhed in Print, Intituled, Part of a DISCOURSE<g ref="char:punc">▪</g> tending only to invite thoſe that believe in CHRIST, to be conformable to him by Baptiſme. But intending to diſſwade from Infant-Baptiſme.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Text ISAIAH 43.22.</hi>
+                  </bibl>
+                  <p>But thou haſt not called upon me, O Jacob, but thou haſt been weary of me, O Iſrael.</p>
+               </q>
+            </epigraph>
+            <div n="1" type="section">
+               <head>SECT. I.</head>
+               <p>
+                  <seg rend="decorInit">N</seg>Ot being deſirous to multiply words unneceſſari<g ref="char:EOLhyphen"/>ly, on ſtrive about words wherein there is no profit, 2. <hi>Tim.</hi> 2.14. we take up all about which we purpoſe to ſpeak, in reference to this Trea<g ref="char:EOLhyphen"/>tiſe, in theſe three; The ſcope, or that which is intended to be proven; The Proofs brought to this purpoſe, as they ſtand in relation to proving; And laſtly, ſome particulars we ſhall glance at here and there, in Preface, Proofs, or Concluſion, as we finde reaſon.</p>
+               <p>As touching the firſt, we conceive, there is one thing pretended, and another intended: That which is pretended, is, to prove that Baptiſme is an Ordinance of God, and the firſt Ordinance by Belie<g ref="char:EOLhyphen"/>vers commanded to be obſerved, and he that is weary of it, is weary
+<pb n="4" facs="tcp:179516:4"/>of God, p. 4. line 17. and p. 5. line 2. that which is intended, is, that he who neglects to be baptized, after he hath attained to practick ho<g ref="char:EOLhyphen"/>lineſſe, and is become able to make confeſſion of his Faith by mouth, is weary of God, and reſiſts him, though in Infancie he hath been formerly baptized, page 10. line 1. and 16. It ſeems to me a ſtrange way of bearing in Truths, to propound and inlarge a doctrine in ſuch amoiguous terms, that a judicious and ſanctified hearer, not acquaint with the ſpeakers temper, cannot know his meaning, till near the two part of the Diſcourſe and Arguments be ſpent, and then to clear it; but by ſome falling expreſſions, from which it muſt be gathered by conſequence, a Logick which our Brethren of the Authors judg<g ref="char:EOLhyphen"/>ment much ſhunne, though the antecedent be expreſſe Scripture. Whether is it for catching the more eaſily the mindes of the ſimple, by making them firſt afraid of great hazard, by neglect of Baptiſme, and then to take it up, though in a way contrary to their conſcience, chooſing rather to hazard upon this rock, than neglect the other, ſuſpected to be a dutie, whoſe neglect is attended with ſo dreadfull conſequents? Or is it by taking that for granted, which is in con<g ref="char:EOLhyphen"/>troverſie, to make hearers the more eaſily conceive it is no contro<g ref="char:EOLhyphen"/>verſie? Or is it to keep the mindes of hearers in the ſmoother frame, that with patience they might hear unto the cloſe? Or the better to ſhunne the dint of adverſe arguments? Whatſoever it be, it looks not like the ſimplicity of Chriſt, 1. <hi>Cor.</hi> 2.4. Its embleme (if weak<g ref="char:EOLhyphen"/>neſſe make us not miſtake) may fitly be the ſhell-fiſh, which looks one way, and goes another. We remember this in the firſt place, for that much hurt often redounds to the weak and unlearned, by fair appearances, when in the mean time there is an hook under the bait, which hurts, if not timely adverted.</p>
+            </div>
+            <div n="2" type="section">
+               <head>SECT. II.</head>
+               <p>AS for the ſecond, the proofs as they ſtand in order to proving, are of two ſorts: The firſt are four Scriptures brought to prove that Baptiſme is not onely an Ordinance of God, but the firſt commanded to be obſerved by Believers, <hi>Math.</hi> 28. v. 19. <hi>John</hi> 4.2.
+<hi>Heb.</hi> 6.1. and 2. <hi>Acts</hi> 10.46, 47, 48. That it is an Ordinance of God, we judge out of all queſtion, as alſo, the firſt commanded to be ob<g ref="char:EOLhyphen"/>ſerved
+<pb n="5" facs="tcp:179516:4"/>by Believers, in ſo far as the Scriptures cited prove, to wit, ſuch Diſciples or Believers (which by the Author, page
+6. line 11. are granted to be reciprocall) as were never formerly viſible Diſ<g ref="char:EOLhyphen"/>ciples of the New Teſtament, and in this eſtate baptized, we ſay, vi<g ref="char:EOLhyphen"/>ſible, becauſe ſome may be viſible Diſciples, who after appear not to have had reall union and communion with Chriſt: And we believe our diſſenting Brethren, do not themſelves rebaptize thoſe whom they have formerly baptized upon their appearing Diſciples, though they themſelves ſhould afterwards (God working effectually upon their hearts) confeſſe they were but hypocrites at firſt receiving of Baptiſme in their fellowſhip, and more to this purpoſe theſe Scrip<g ref="char:EOLhyphen"/>tures do not hold forth. As alſo, while we grant it the firſt, we under<g ref="char:EOLhyphen"/>ſtand a fit adminiſtrator, element, and other circumſtances neceſſary concurring; or, in a word, after converſion, with the firſt convenien<g ref="char:EOLhyphen"/>cie: but all this ſpeaks nothing to prove what is intended, as the main ſcope, that ſuch as were ſoomtime formerly baptized, ſhould be re<g ref="char:EOLhyphen"/>baptized, when they become actuall Believers, if they were not ſo at firſt.</p>
+               <p>The Proofs, as the words of the doctrine import, are brought to clear, that he who neglects Baptiſme, is weary of God: With which truth (as the words import) we ſo fully cloſe, that if there were nothing more intended, we ſhould rejoyce to hear this, and every Ordinance of Chriſt<g ref="char:punc">▪</g> powerfully preſſed upon the con<g ref="char:EOLhyphen"/>ſcience; onely whileas we ſpeak of neglect, it would be underſtood as it imports, an act of the minde contemning, and not a ſimple omiſ<g ref="char:EOLhyphen"/>ſion: For, the caſe may fall out, that ſome part of the Goſpel fall in the hands of an unbeliever in
+<hi>India,</hi> which by the working of the Spirit, may become effectuall for his converſion, wherein there is no mention of Baptiſme; or mention being made, he may not under<g ref="char:EOLhyphen"/>ſtand what it means. Such an omitter is no more weary of God, then the Diſciples ſpoken of, <hi>Acts</hi> 19.1, 2. were, in not ſeeking for the Holy Ghoſt, as the Apoſtle there ſpeaks, having never
+<hi>heard whe<g ref="char:EOLhyphen"/>ther there were any Holy Ghost, or not:</hi> So, though it were a duty for Believers to be baptized when they become ſenſible of practick holineſſe, and able to confeſſe with their mouth, and ſhould not have been adminiſtrate to them ſooner; (which we dare not yet believe) it is not in them a wearineſſe of God, till it be diſcovered to them to
+<pb n="6" facs="tcp:179516:5"/>be their duty; but ſhould be in them a wearineſſe of him to take it up: being a ſin againſt conſcience, and
+<hi>whatſoever is not of faith, is ſin, Rom.</hi> 14, 23.</p>
+               <p>And as for proving the concluſion intended, to wit, that not<g ref="char:EOLhyphen"/>withſtanding perſons have been baptized in their Infancie (ſo we ſpeak becauſe we reckon it Baptiſme, though we conceive the Au<g ref="char:EOLhyphen"/>thor wil ſay, Dipping of Infants in the Name of the Father, Son, and Holy Ghoſt, is no Baptiſm at all) when they become able to give a confeſſion of their faith, and ſenſible of practick Holineſſe, they are then to be baptized. None of the Scriptures cited in the 5. Page prove the point, not the firſt, <hi>Acts</hi> 11.17. compared with 10.46, 47, 48. For neither
+<hi>Cornelius</hi> (though a devout man) nor any of his houſe were ever formerly Diſciples of the New Teſtament, and baptized. Neither the ſecond, <hi>Luke</hi> 7.30. Nor the third, <hi>Math.</hi> 3.7, 8, 9, 10. Becauſe both relate to perſons which former<g ref="char:EOLhyphen"/>ly were never baptized. Neither the univerſality of it, ſpoken of in the 6. and 7. pages, which we grant in a larger ſenſe then our diſſenting Brethren will admit: to wit, to Infants of Believers in Church-Fellowſhip, who are viſible Diſciples, and Believers to Charities up-taking, though not acting their Faith more then their reaſon, and yet are reaſonable creatures when they come from the womb. But it follows not from any thing there ſpoken, that either Children ſhould not be baptized, or are not Diſciples, or being baptized, they ſhould again take up that Ordinance, when they become ſenſible of Practick Holineſſe, and able to confeſſe with their mouth. Neither the Spirituality of it (to keep the Authors own words) except it be what is ſaid anent the Spirituality of the Subject, to wit, <hi>that confeſſion of the month is</hi> eſſentiall <hi>to Baptiſm, and actuall Repentance, from dead Works, and bringing forth of fruit,</hi> wherein his purpoſe is diſcovered, and if as well proven as aſſerted, we ſhould lay our hands upon our mouths, and take up that Ordinance with the firſt conveniencie. But he muſt give me leave to ſay in ſobriety and Truth, what <hi>Galen</hi> profanely ſaid of a worthy Pen-man of ſacred Scripture, <hi>Multa aſſerit, ſed nihil probat.</hi>
+               </p>
+               <p>The ſtrength of all the Arguments in that Section, which treats of the Spirituality of the Subject, as they relate to proving the in<g ref="char:EOLhyphen"/>tended
+<pb n="7" facs="tcp:179516:5"/>concluſion foreſaid, may be reduced to this, whatſoever is neceſſarily required of Perſons ſaid to be baptized, in the places cited, is neceſſarily in like manner, to be required of all perſons who are to be baptized: But Confeſſion, actuall holineſſe, actuall repentance, good fruits, &amp;c. is required in all thoſe; Therefore it is required in all that are to be baptized.</p>
+               <p>
+                  <hi>Anſ.</hi> 1. All the places cited, do not neceſſarily prove the ſe<g ref="char:EOLhyphen"/>cond Propoſition, as <hi>John</hi> 4.2. Becauſe ſome may be made, and are Diſciples, who cannot actually believe and confeſſe,
+<hi>Acts</hi> 15.10. compared with 1. and 5. ſhews Infants may be Diſciples. Neither doth the other Text <hi>Heb.</hi> 6.1. brought to fortifie, prove that none can be Diſciples but ſuch as have actual repentance, &amp;c. It will ap<g ref="char:EOLhyphen"/>pear to the meaneſt impartiall Logician, to be a bad conſequence, becauſe the foundation of Repentance from dead works, and of Faith towards God, are the firſt principles of the Doctrine of Chriſt; therefore there is nothing of them known, till they turn in actuall and elicite acts. Take the like for clearing in naturall things; Preſervation of naturall being, is the firſt principle whereinto men naturally incline, and whereupon all other naturall actions follow: Therefore, there is nothing of it taught, before there be an actuall explicite knowledge, and a faculty to confeſſe wherein it doth con<g ref="char:EOLhyphen"/>ſiſt, or love to father and mother naturall, is the firſt principle of the fifth Comand, whereupon others as branches follow; therefore while they are children, they have no love to them. We hope none will deny, but God is as free in the School of Grace as Nature.</p>
+               <p>But eſpecially we anſwer unto the firſt Propoſition, That none of the Texts cited prove whatſoever is mentioned in them, is requi<g ref="char:EOLhyphen"/>red of all to be baptized; And if the reaſons of our denyal clear thus, all the places cited are either inſtances, or Scriptures alleadged to ſpeak generally; And neither prove the point; not the firſt, becauſe the perſons ſpoken of <hi>Math.</hi> 3.8, &amp;c. and <hi>John</hi> 4.2. were all in the Authors judgement, perſons come to age, and the Eunuch,
+<hi>Acts</hi> 1.37. was without all controverſy of the ſame condition; and inſtances of all particulars by-gone, being able to afforde but a proportionall argument; for the time to come can prove onely concerning perſons of that ſame condition. It is as if we ſhould ar<g ref="char:EOLhyphen"/>gue thus, All men come to age muſt give their promiſe to be faith<g ref="char:EOLhyphen"/>full
+<pb n="8" facs="tcp:179516:6"/>to the Liberty of a City, before they can be admitted Free-men: Therefore Children cannot be admitted Free-men. I believe ma<g ref="char:EOLhyphen"/>ny of the Citizens of <hi>London</hi> and <hi>Edinburgh</hi> would much mur<g ref="char:EOLhyphen"/>mure, if the Parliament ſhould take ſuch Logick for demonſtrations.</p>
+               <p>The ſtrength of the proof of the generall Scriptures, conſiſts (to take up all together) in the univerſal Particles in the 10. to the <hi>Ro.</hi> 9. <hi>If thou ſhalt confeſſe with thy mouth,</hi> v.
+10. <hi>With the heart man be<g ref="char:EOLhyphen"/>lieveth,</hi> v. 11. <hi>Whoſoever believeth, Math.</hi> 10.32. <hi>Whoſoever ſhall confeſſe,</hi> v. 33.
+<hi>Whoſoever ſhall deny me,</hi> &amp;c. (where by the way, we cannot but admire, a man of ſuch Learning, and Piety, as the Author is ſaid to be, ſhould make <hi>deniall,</hi> and <hi>not confeſſing</hi> to be the ſame thing, or equivalent, ſeeing <hi>Paul, Acts</hi> 23.6. though accuſed &amp; before a judge, keeps up many particulars in chriſtianity, though for this, he was accuſed in Chriſtian Prudence, mentioning but one
+<hi>the hope, and reſurrection of the dead,</hi> common to him and the Phariſees, his Adverſaties, becauſe he found neither calling, nor the glory of God at that time, did require a further publiſhing. We hope the Author, after ſecond thoughts, wil acknowledge, it is never lawfull to deny Chriſt; but many times lawfull not to confeſſe, <hi>leſt caſting Holy things to dogs, they turn again all torent us</hi>) The third univerſal par<g ref="char:EOLhyphen"/>ticle is, <hi>Heb.</hi> 12.14. <hi>VVithout holines, no man, &amp;c.</hi> the laſt brought to clear the third, is, <hi>Jam.</hi> 2.17. <hi>Faith if it have no works is dead alone.</hi>
+               </p>
+               <p>To which we anſwer ſhortly, All the paſſages alledged are uni<g ref="char:EOLhyphen"/>verſall in regard of the Subject they relate to: None of them are ſimple univerſal without reſtriction. This ſhall appear to imparti<g ref="char:EOLhyphen"/>all viewes of all the particular Texts: The firſt, <hi>Rom.</hi> 10. relates to thoſe to whom the word of Faith was preached, and conſequently ſuch as were come to age, v. 8. In the ſecond <hi>Math.</hi> 10. Chriſt is ſpeaking to guarde his D ſciples, and ſuch as were actuall Believers againſt fear, and had the faculty of confeſſing, and denying, and ſo perſons come to age. In the third, <hi>Heb.</hi> 12. the Apoſtle is ſpeak<g ref="char:EOLhyphen"/>ing to perſons that had need of Patience, Ch. 9.36. and confirma<g ref="char:EOLhyphen"/>tion, as is evident from the whole 11. Chapter, to which we ſhall adde, as not of little weight. It had been a very imprudent and diſ<g ref="char:EOLhyphen"/>couraging argument for ſo prudent a Pen-man, as the Author of that Epiſtle held by a great many of the Learned, to have been <hi>Paul</hi> con<g ref="char:EOLhyphen"/>cealing his name, for ſhunning prejudice, becauſe a countrey-man
+<pb n="9" facs="tcp:179516:6"/>to have written unto them as a motive to make ſtraight ſteps for their feet, and go on in Holineſſe. <hi>VVithout holineſſe no man ſhall ſee God.</hi> Deſiring them to take it in this ſenſe, though ſomtimes the chil<g ref="char:EOLhyphen"/>dren of you <hi>Hebrews</hi> were holy, and received the Seal of the Cove<g ref="char:EOLhyphen"/>nant. Now if they d<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e before they come to age, none of them ſhal ſee God: In the midſt of his many wiſe, and powerfull A<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>guments ta<g ref="char:EOLhyphen"/>ken from the weakneſſe, and tranſitorineſſe of the Leviticall Prieſt<g ref="char:EOLhyphen"/>hood, and the compleatneſſe, and perpetuitie of Chriſts.</p>
+               <p>The laſt, <hi>James</hi> 2.17. ſpeaks to thoſe who were in hazard of be<g ref="char:EOLhyphen"/>ing partial in themſelves, and judges of evil thoughts, v. 4. and whoſe duty it was to give unto a brother, naked and deſtitute of daily food, thoſe things which are needfull to the body. The Argument then ſtands thus, Confeſſion and actuall holineſſe, are neceſſary to all per<g ref="char:EOLhyphen"/>ſons come to age, and in a faculty of confeſſing before Baptiſme: therefore they are neceſſary to all who are to be baptized, which to ſuch as have ſaluted the rudiments of Sophiſtry, will appear a non<g ref="char:EOLhyphen"/>concluding
+<hi>caption a dicto ſecundum quid, ad dictum ſimpliciter.</hi> To which a Philoſoph ſpeaking to another, would anſwer in two words
+<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> and <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, in ſome ſenſe they are all univerſall ſimply, it will never be proven. And if it be replyed, though the perſons to whom theſe places ſpeak immediatly, be perſons adult and come to age, yet upon that occaſion, generall rules are laid down. It is as eaſily denyed as aſſerted; ſome things ſpoken formerly, make it improbable, and ſome things to be ſpoken, will make it appear impoſſible. And that this is the Scrip manner of ſpeaking, appears from
+<hi>Luke</hi> 9.5. <hi>Whoſo<g ref="char:EOLhyphen"/>ever will not receive you, &amp;c.</hi> we conceive the Author will not deny, it is underſtood but of ſuch, as to whom they offered themſelves. From <hi>Math.</hi> 10.22. <hi>Ye ſhall be hated of all men for my ſake.</hi> We beſieve, the Author will not aver, that every individuall perſon did hate them, ſeeing many had tender bowels of love to them; but of all ranks, ſuch as were godleſſe and wicked, and to whom they became known. From <hi>Luke</hi> 14.26. <hi>If any man come to me, and hate not his father and mother, and wife and children, he cannot be my diſciple.</hi> We hope, the Author will not teach, all who want thoſe relations, are in an incapacity of becoming Chriſts Diſciples. That it is ſpiri<g ref="char:EOLhyphen"/>tuall in its intent, waſhing away ſins in a ſacramentall way, with all conveniencie to be put in execution, with the limitations aforeſaid,
+<pb n="10" facs="tcp:179516:7"/>we grant; and ſtudying brevitie, come to ſpeak of ſome parti<g ref="char:EOLhyphen"/>culars.</p>
+            </div>
+            <div n="3" type="section">
+               <head>SECT. III.</head>
+               <p>THe firſt particular which we conceive carryes along with it hazard of ſtumbling to the weak, is that in the Epiſtle to the Reader, wherein it is called, A bloudy Preaching, to ſound all truth in the ears of thoſe who know not the God of truth, (we paſſe the reproaching deſcription given to ſuch Preachers, becauſe the grounds being everted, it will appear but a calumny) if the Au<g ref="char:EOLhyphen"/>thors meaning had been, that the preſſing the practice of duties of worſhip, acceptable onely from perſons knowing God, upon perſons in a naturall condition, had been unlawfull, and not a dealing in a Goſpel-Order, we could have ſubſcribed unto it; and we know no Preachers that are worthy of ſuch a name, who uſe to preſſe duties conſequentiall to Regeneration, to be performed before it: Or if his meaning had bin, that it is not the Goſpel-order, where Preachers preach to a multitude, all unbelievers to begin with ſuper<g ref="char:EOLhyphen"/>ſtructures, before they lay the foundation, and teach the principles of Chriſt.</p>
+               <p>Likeas we grant, Preachers as faithfull workmen, that needs not be aſhamed, ſhould in all Chriſtian prudence, ſhun to ſound all truth in the ears of all perſons, at ſome times, as the terribleneſſe of judg<g ref="char:EOLhyphen"/>ment and wrath, in the ears of thoſe who are under the terrours of God, deeply wounded in conſcience already (whether knowing the God of truth, or but preparing by the ſpirit of bondage, as a forerunner to the ſaving knowledge of him) except a greater neceſſitie require it, ſhould not be kept up. Or doubtfull diſputations, before weak and unconfirmed fouls,
+<hi>Rom.</hi> 14. v. 1. As alſo, that Preachers ſhould la<g ref="char:EOLhyphen"/>bour in their preſſing of duties, or holding forth of comforts, ſo to clear their bounds, that no perſon, not knowing God, may have rea<g ref="char:EOLhyphen"/>ſon to think he hath done God good ſervice, when he hath but offe<g ref="char:EOLhyphen"/>red the lame ſacrifice, nor conceive he may eat of the childrens bread, ſo long as he continues a ſtranger.</p>
+               <p>But both the Authors words, and his practice clears, he under<g ref="char:EOLhyphen"/>ſtands it is a bloudy preaching to ſound all truths ſerving for building up perſons, knowing God in the eares of perſons, in a naturall con<g ref="char:EOLhyphen"/>dition,
+<pb n="11" facs="tcp:179516:7"/>or which is equivolent, to admit all perſons to be hearers of Truths Preached Intentionally, as their native end, to edifie perſons already regenerate. They are ſuch, we conceive, of whoſe ſometime-communion, now he is aſhamed: And from communion with whom, we know at preſent he doth ab<g ref="char:EOLhyphen"/>ſtain. We are confident, he had never ordinary Spirituall com<g ref="char:EOLhyphen"/>munion with any Preachers who would not in their declared pur<g ref="char:EOLhyphen"/>poſe, obſerve the limitations foreſaid, and failings through infir<g ref="char:EOLhyphen"/>mity are no ground for perſons to be aſhamed of communion one with another.</p>
+               <p>And becauſe the conſtant practice of ſo many godly ſervants of Chriſt by this, is ſo highly reproached, if it were not that
+<hi>Aſſer<g ref="char:EOLhyphen"/>tio nihil ponit in re,</hi> taking in the reſtrictions foreſaid, we ſhall oppoſe unto it this contradictory concluſion: It is no bloudy preach<g ref="char:EOLhyphen"/>ing but a Preaching according to the minde of Chriſt, to ſound all Truths in the eares of thoſe who know not the God of Truth, ad<g ref="char:EOLhyphen"/>mitting all perſons deſiring to hear, without diſturbance to the Preaching of the Goſpel.</p>
+               <p>The firſt Argument for clearing this, ſhall be Gods leaving the whole Scriptures to be peruſed by every man (wherein all Truth is contained (and Chriſts injoyning natural men to learch the Scrip<g ref="char:EOLhyphen"/>tures,
+<hi>John</hi> 5.39. For knowing what ſort of perſons they were, let the preceeding verſes be conſulted, and in particular, the 37, and 38. where Chriſt teſtifies of them, <hi>they had neither ſeen the Fathers ſhape at any time, nor heard his voice, they had not his word abiding in them, neither believed they him whom the Father had ſent.</hi> If it be laid upon them to ſearch the Scriptures, and no limitation laid upon their inquiry; was it not as lawful for ſuch as knew all the Scripture (if any ſuch there had been to explain all the Scriptures unto them? We hope none will aver, that Chriſt injoyns them to ſearch what they might not labour to know. And if it ſhall be ſaid, Chriſt refers them to ſuch places, as teſtifie of himſelf: We Anſwer, 1. The Law comprehending all Morall Duties, was publickly taught, the Prophets did publiſh their Prophecies to all ſorts of perſons; The Words of our Saviour have no reſtriction: Therefore there is no reaſon to make it narrower then the Author doth. <hi>Anſ.</hi> 2. Though it were but onely to ſuch
+<pb n="12" facs="tcp:179516:8"/>as teſtified of Chriſt, how much might offer it ſelf to their view, before they came to Paſſages teſtifying of him? <hi>Anſ.</hi> 3. How many places in the Prophets and Pſalmes do ſpeak of Duties to be performed to him? Which perſons not knowing God, are not able to perform, and Comforts flowing out from him, whereof perſons not knowing God, are not the Subject, and yet teſtifying of him. But we judge it needleſſe further to inſiſt in this. We hope, the Author will acknowledge, it is a Popiſh principle he ownes, not to reſtrain the vulgar people Converted, or unconverted, to peruſe Scriptures in their native Language. Secondly, Chriſt himſelf did ſound Truths in the cares of ſuch as knew not the God of Truth, which could not be made uſe of, as to obedience, before Regene<g ref="char:EOLhyphen"/>ration, <hi>Math.</hi> 19. from the 17. to the 22.
+<hi>Math.</hi> 23. Jeſus ſpake to the multitude, and his Diſciples, of
+<hi>humility, rectifying of Oaths, Judgement, Mercy and Faith,</hi> where (we conceive) faith 23. is not taken for Juſtifying Faith, but for fidelity, and uprightneſſe in dealing. In the 6. of <hi>Lukes</hi> Goſpel from the 20. to the cloſe of the Chapter, our Saviour teaches many Duties, which could not be performed, but by ſuch as knew the God of Truth, and many comforts, which none other had right to enjoy, and that it was in the preſence of many who knew not the God of Truth; Beſide that it is added immediatly after, it is ſaid in the 19. <hi>The whole multitude ſought to touch him,</hi> in the
+20. immediatly thereafter, <hi>He lift up his eyes on his diſciples, and ſaid,</hi> without mentioning any change of place. The Woes denounced in the
+24. — 25. ſhew there were preſent perſons rich, full, and laughing,
+<hi>VVo unto you,</hi> ſaith Chriſt, <hi>that are rich, &amp;c.</hi> With which, conſider what he teacheth, <hi>Luke</hi> 11. from the 38.12. Chapter from the beginning to the 13. the whole 16. Chapter, and the 18. from the beginning to the 35.</p>
+               <p>Laſtly, <hi>Paul</hi> did reaſon before <hi>Felix,</hi> and
+<hi>Druſilla,</hi> of righteouſ<g ref="char:EOLhyphen"/>neſſe, Temperance, and Judgement,
+<hi>Acts</hi> 24.25. and in his firſt Epiſtle to the <hi>Cor.</hi> c.
+14.23, 24. He puts it beyond all controverſy, it was the enſtome of the Church, to admit unbelievers to hear the members Prophecy, and that this was by
+<hi>Paul</hi> himſelf approven. We believe none will deny, who delight not in a ſpirit of contradi<g ref="char:EOLhyphen"/>ction, but it may be asked what advantage can redound to ſuch as know not the God of Truth, by hearing ſuch Truths: ſeing the things
+<pb n="13" facs="tcp:179516:8"/>that are of God are fooliſhneſſe to the naturall man, 1 <hi>Cor.</hi> 2.14. <hi>Anſ.</hi> We know no truth ſerving for building up converted Chriſti<g ref="char:EOLhyphen"/>ans, but the Lord may make it inſtrumentall in Converting natures children, who is free in his Working,
+<hi>John</hi> 3.8. As for example, in the hearing of a naturall man, the Duty of Prayer is opened up in its nature, Excellencie, way of Performance, and Fruits, the Spirit working on his ſoul, he is convinced of his comming ſhort of ſuch a way of performance, of his folly, in ſlighting ſo precious a Jewell, and the hazard he may run, if he continue in ſuch a courſe, where<g ref="char:EOLhyphen"/>upon his ſpirit is ſet on edge, to ſearch after the way how he may ſo performe it, as it may be advantagious unto him. The like may be ſaid of Praiſe, Righteouſneſſe, Prace, and joy in the Holy Ghoſt, &amp;c. We believe, if the Author will ask all of his own ſociety (if there be as much of God among them as is ſaid to be) and they begin to ſhew him how beneficiall the Lord hath been unto their ſoules, it ſhall be found, it was not alwayes Preaching of principles was the firſt mean making them look in to their own hearts, and we ſhall wiſh all perſons to take heed of limiting the holy One of Iſrael, whoſe fooliſhneſſe is wiſer then the wiſedom of men. If it be Ob<g ref="char:EOLhyphen"/>jected, <hi>Chriſt ſpake unto the multitude in Parables, &amp;c. Anſ.</hi> It was a judiciall act of Chriſts Prerogative Royall, which we are no more to imitate, then his ſending for the Aſſes Colt to ride upon. If <hi>Pauls</hi> practiſe mentioned, 1 <hi>Cor.</hi> 3.1, 2. be Objected, it is anſwered in the limitations premitted.</p>
+               <div n="1" type="subsection">
+                  <head>SUBSECTION I.</head>
+                  <p>THe ſecond particular we ſhall ſhortly glance at, is; It ſeems an aim in the diſcourſe, to magnifie Baptiſme too much; though it be an Ordinance of Chriſt, a Precious Love<g ref="char:punc">▪</g> token, and a Seal of the Lords Covenant, yet external Ordinances may be too much mag<g ref="char:EOLhyphen"/>nified, when too much is attribute to them, or they are too much heeded, with neglect of the more precious inward Work as the <hi>Jews</hi> did the Temple, <hi>Jer.</hi>
+7.4. The Ack, 1 <hi>Sam.</hi> 4.3. Now Moons, and ap<g ref="char:EOLhyphen"/>pointed Feaſts,
+<hi>Iſaiah</hi> 1.14. And ſolemne faſting, <hi>Iſaiah</hi> 58.3. And though we ſhall not ſay it is the Authors purpoſe ſo to do (we hope better things of him (yet ſeverall paſſages in the Diſcourſe ſeem to
+<pb n="14" facs="tcp:179516:9"/>carry along hazard of ſtumbling to the vveak, in reference to this; and therefore vve ſhall deſire the peruſers to conſider, firſt, vvhileas it is called the firſt Ordinance commanded to be obſerved by Believers page 4. line 18. it is but the firſt in time vvith the limitations foreſaid, and not in dignity, becauſe vvithout it, ſalvation may be, and hath been, and vvithout ſome other, at no time any have been ſaved.</p>
+                  <p>Secondly, while-as it is ſaid, He that neglects it, is vveary of God, page 5. line 25. it is according to truth, but as it is former<g ref="char:EOLhyphen"/>ly explained. Thirdly, while-as it is ſaid page 7. line 3. thoſe that draw near to God in a way of worſhip, are to have it as a pre<g ref="char:EOLhyphen"/>paration thereto, confirmed by that Text, <hi>Heb.</hi> 10.22. it holds not ac<g ref="char:EOLhyphen"/>cording to truth excluſively; that is, that none unbaptized, may draw near to God in a way of worſhip, acceptable to him. It holds not with the rules of good Logick: Let us draw near to God with a true heart, in full aſſurance of faith, having our hearts ſprinkled from an evill conſcience, and our bodies waſhed with pure water. Therefore all thoſe that draw near to God, &amp;c. muſt be waſhed with pure wa<g ref="char:EOLhyphen"/>ter. We hope the Authors own expreſſions, page 4. lines 10, 11, and 12. &amp;c. wherein he grants the converſion of ſome, may have been ſome five or ten years, before taking up that Ordinance, in which time there might have been many duties put in practice, and ſome in<g ref="char:EOLhyphen"/>joyment vvil evince: That thoſe duties accompanied with ſome in<g ref="char:EOLhyphen"/>joyment, had among them a drawing near to God in a way of wor<g ref="char:EOLhyphen"/>ſhip, acceptable to him without this preparation, being confident he will not aver, a converted Believer in the ſtate of grace, for ten years, never drew near to God in a way of worſhip acceptable to him: Though we acknowledge, contemners cannot have acceſſe with boldneſſe unto the Throne of grace.</p>
+                  <p>Fourthly, in viewing the ſpirituality of it, though it be ſpirituall, (as all Ordinances of the New Teſtament) and more ſpirituall then Circumciſion, as ſealing the remiſſion of ſins by the blond of Chriſt, already come in the fleſh, and a more plentifull effuſion of the ſpirit, for ſprinkling the conſcience from dead works; yet let it be remem<g ref="char:EOLhyphen"/>bred, Circumciſion an Ordinance adminiſtrate to Infants under the Law, did require a ſpirituall ſubject, being adminiſtrate to none but the ſeed of <hi>Abraham,</hi> and ſuch as were Proſelites of the Covenant; it had a ſpirituall intent, ſignifying the uncleanneſſe which men bring
+<pb n="15" facs="tcp:179516:9"/>unto the world with them, and the removall thereof by Chriſt, the Seed of the Woman, ſealing the Covenant betwixt God, and <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> and his ſeed, calling to minde the fulfilling their part of the Co<g ref="char:EOLhyphen"/>venant all their life-time, importing their profeſſion of faith, and avowed intereſt in the <hi>Meſſiah</hi> to come, diſtinguiſhing them as a di<g ref="char:EOLhyphen"/>vine badge from the uncircumciſed Gentiles,
+<hi>aliens from the com<g ref="char:EOLhyphen"/>mon-wealth of Iſrael,</hi> and the moſt eminent in holineſſe, even Chriſt Jeſus himſelf was circumciſed: And it was accompanied with ſpiri<g ref="char:EOLhyphen"/>tuall fruits, as all divine ordinances, accompanied with ſpecial grace. <hi>Deus &amp; natura nihil faciunt fruſtra.</hi> As for the Adminiſtrator, we conceive, the Author makes him of too large extent, and deſire to ſee proof in the next turn, that it is lavvfull for every ſpiritually gifted man, able to edifie the Church, to baptize. And vvhereas it is ſaid, it vvaſhes avvay ſin, vve ſhall deſire it may be remembred, it is true but in a figurative and ſacramentall ſenſe: And properly neither Bap<g ref="char:EOLhyphen"/>tiſme, nor any other Ordinance, hath ſo high a vertue, neither vvill the diſtinction of <hi>mediatly</hi> and <hi>immediatly</hi> ſerve the buſineſſe, vvhe<g ref="char:EOLhyphen"/>ther mediatly or immediatly making it properly a vvaſher avvay of ſin, a juſtifier or remover of guilt, it derogates much from the merits of the immaculate Lamb, by vvhoſe ſtripes Saints are healed, the blood of Chriſt may be not the immediate means of bringing a ſin<g ref="char:EOLhyphen"/>ner on his way in coming to lay hold upon him; but Preaching, Prayer, or Baptiſme may have their influence herein, but the blood of Jeſus Chriſt, or his obedience, ſignified in this ſynecdochicall ex<g ref="char:EOLhyphen"/>preſſion, is the onely immediate cauſe in its order of waſhing from ſin; take it in a ſimilitude thus; One cold in the Winter ſeaſon, ſtands trembling without doors, not knowing of houſe or fire; and to him comes another, knowing of a warm houſe, well furniſht with fire, having a commiſſion from the Maſter of the houſe, and in his Maſters name invites him to come in and warm himſelf; whereup<g ref="char:EOLhyphen"/>on he approaching, intreats the Maſter of the houſe to ſuffer him to enter in; and it being granted, he comes to the fire, and findes the refreſhment of warmneſſe: The ſervants declaration and invitation, his belief and ſupplication, were cauſes in their order of his in-com<g ref="char:EOLhyphen"/>ing; but only the fire, with its heating faculty, was the immediate cauſe of his warmneſſe. We ſhould be glad to know (not being able to reach it at preſent) how Baptiſme can waſh away ſin more then
+<pb n="16" facs="tcp:179516:10"/>by ſignification and confirmation, ſeeing juſtification conſiſts <hi>in indi<g ref="char:EOLhyphen"/>viauo,</hi> and is not capable of more and leſſe; and it is neceſſarily re<g ref="char:EOLhyphen"/>quired in the Authors judgment, that al<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e actually converted (at leaſt to charities judgement) before Baptiſme, which without all controverſie, is alwayes accompanted with waſhing from ſin.</p>
+               </div>
+               <div n="2" type="subsection">
+                  <head>SUBSECT. II.</head>
+                  <p>THe third particular we take notice of, is a twofold Aſſertion, p. 10. line 1, and 16. <hi>that confeſſion with the month, is eſſentiall to ſalvation, and without practick holineſſe, no man ſhall ſee God.</hi> It were no great matter to prove, confeſſion of the mouth not to be eſſentiall to ſalvation, either to children, or perſons having a faculty to con<g ref="char:EOLhyphen"/>feſſe, if we ſhould ſcan the words according to the acceptation of Philoſophers, from whom they had their firſt riſe; as alſo to prove, that holines which we maintain is in Infants, is practick, as practick habits are oppoſed to contemplative; for grace is ever a practick habit; but as we ſaid at firſt, not deſiring to conteſt about words, &amp; conceiv<g ref="char:EOLhyphen"/>ing it clear the Authors meaning is in the one, that without confeſſi<g ref="char:EOLhyphen"/>on of the mouth, ſalvation cannot be attained; and in the other, with<g ref="char:EOLhyphen"/>out holineſſe, exerciſing or going actually about duties, no man ſhall ſee God; to which purpoſe that Text of the Apoſtle <hi>James</hi>
+2.17. is cited. We ſhall ſhortly out of the many ſtrong arguments of many learned men writing to this purpoſe, propound to the Authors view, but two at preſent, to which if we ſhall find ſatisfaction, in the next turn, we ſhall be a degree nearer conviction, then at preſent we are. The firſt ſtands thus; Thoſe of whom the Kingdom of God is with<g ref="char:EOLhyphen"/>out confeſſion and practick holineſſe, may ſee God, and attain ſalva<g ref="char:EOLhyphen"/>tion, without confeſſion with the mouth, and practick holineſſe; but of little children, who neither can confeſſe with the mouth, nor have practick holineſſe in the Authors ſenſe, the Kingdom of God is: Therefore without confeſſion with the mouth, or practick holi<g ref="char:EOLhyphen"/>neſſe, ſome may attain ſalvation, and ſee God. We believe none will deny the connexion of the firſt part of the Argument. The ſecond Propoſition is in
+<hi>Math.</hi> 19. at the 14. <hi>of ſuch is the Kingdom of hea<g ref="char:EOLhyphen"/>ven: Luke</hi> 18. at the 16. <hi>of ſuch is the kingdom of God.</hi> We know by ſome it will be anſwered, Little children is taken figuratively: to which we ſay for reply, Let all ſober and impartiall ſpirits but conſider, firſt, how the Diſciples knew them to be of ſuch a frame of ſpirit, to wit, that they were little children in humility, ſeing God on<g ref="char:EOLhyphen"/>ly
+<pb n="17" facs="tcp:179516:10"/>is ſearcher of the hearts. 2ly, knowing, why did they rebuke them which brought them upon this accompt? Were they men of ſuch a profane temper, that they could endure none of humble ſpirits to come to Chriſt? 3ly, or if there were nothing to be ſeen in them, but what was ordinarily ſeen in others; why did they not aſwel rebuke the great multitudes which followed him, and were healed of him, and the Pha<g ref="char:EOLhyphen"/>riſees which came unto him, tempting him, <hi>Mat.</hi> 19.2. and 9 and the Ruler who asked him, <hi>what he ſhould do to inherire eternall life? Luke</hi> 14.18. Fourthly, what weight, and what to purpoſe in anſwer to the Diſciples, labouring to keep them back, hath it otherwiſe, while Chriſt ſaith,
+<hi>Suffer them<g ref="char:punc">▪</g> of ſuch is the kingdom of heaven?</hi> Laſtly, we ſhall de<g ref="char:EOLhyphen"/>ſire the Author to remember his own words, p. 11. l. 19, 20, 21, &amp;c. it is very improbable, that the Holy Ghoſt ſhould put in one myſtical thing among ſo many others that are literall, which is never found to be his courſe, except when he tels us ſo; for he delights not in our ſtumblings; and it wil yet appear more then improbable, conſidering it is expreſſed by two Evangeliſts in the ſame way, &amp; the expreſſion which by <hi>Luke</hi> is uſed <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, is properly tranſlated
+<hi>Infants;</hi> to which may be adued the expreſſion of <hi>their being brought,</hi> compared with the multitudes ſaid to <hi>follow him,</hi> and the Phariſees <hi>came unto him,</hi> theſe being expreſſi<g ref="char:EOLhyphen"/>ons, ſignifying their ovvn act, and the other the act of others, as in other places, perſons ſick and unable to come themſelves, are ſaid to be brought.</p>
+                  <p>The ſecond argument is this, Thoſe vvho ſomtime received Circum<g ref="char:EOLhyphen"/>ciſion, the ſeal of the Covenant of grace made vvith
+<hi>Abraham</hi> and his ſeed, and never loſt that vvhich by it vvas ſignified, may ſee God, and attain ſalvation: but ſome not able to confeſs, nor having practick holi<g ref="char:EOLhyphen"/>nes ſomtime received, &amp;c. vvho lived in the days of the Nevv Teſt. (ſo vve conceive the Author underſtands, &amp; therefore deſire not to extend it beyond his meaning) and never loſt vvhat by it vvas ſignified, there<g ref="char:EOLhyphen"/>fore ſome vvho confeſs not vvith their mouth, and have not practick holineſs, may attain ſalvation. For the firſt Propoſition, we hope none vvil deny but it vvas the ſeal of the Covenant of grace, or that ſuch as received it, and never loſt vvhat vvas ſignified by it, &amp;c. may ſee God; except they vvill ſay, God gave ſuch a ſeal to ſeal nothing, and as a mock to <hi>Abrahams</hi> ſeed, vvhich vve ſhould look upon as blaſphemy, though reſerving to the Lord his ovvn latitude in his ſecret acting, as ſeems good in his eys, vvho is debter to no no man. The 2. Propoſit. vve prove thus: All the Infants of Believers in Chriſt, vvho believed at
+<pb n="18" facs="tcp:179516:11"/>the hearing his Word vvhen he vvas upon earth; and all thoſe vvho vvere the Infants of ſuch Believers as believed ſuddenly after Chriſts Aſcenſion, (vvhereof <hi>there were not a few, Acts</hi> 2.41.) vvhich vvere eight dayes old before Chriſts death and reſurrection, received Cir<g ref="char:EOLhyphen"/>cumciſion, the ſeal of the Covenant of grace, and never loſt vvhat vvas ſignified by it, remiſsion of ſins, and ſaving grace; therefore, ſome not having practick holineſſe, or able to confeſſe vvith their mouths, ſom<g ref="char:EOLhyphen"/>time had the ſeal, and never loſt vvhat by it vvas ſignified.</p>
+                  <p>That the children of ſuch Believers, as laid hold upon Chriſt ſud<g ref="char:EOLhyphen"/>denly after his Aſcenſion unto glory, vvere circumciſed; vve hope none vvill deny, the Ceremoniall Lavv not being before Chriſts death abo<g ref="char:EOLhyphen"/>liſhed, ſo far as that it vvas indifferent to practize it, or not practize it, Chriſt himſelf being circumciſed, and keeping the Paſſeover immedi<g ref="char:EOLhyphen"/>atly before his ſuffering, <hi>Math.</hi> 26.19, and 20. and if it be ſaid, they loſt vvhat by it vvas ſignified, We ask, for vvhat? Not for any thing they had done themſelves, for the children had neither done good nor evil; neither for any thing their parents had done, for they believed, and be<g ref="char:EOLhyphen"/>came Diſciples of the Nevv Teſtament. Without controverſie, formerly they vvere in ſanctified reaſon, looked upon as vvithin the Covenant of grace, and fit materials for the Kingdom of Heaven, being Members of a viſible Church, to vvhich Chriſt joyned though very corrupt: And vve deſire to knovv, if any man vvho is not demented, vvill ſay, becauſe their parents laid hold upon Chriſt, therefore they became
+<hi>not mem<g ref="char:EOLhyphen"/>bers,</hi> and in an uncapacity of ſeeing God? To clear this in an inſtance, Suppone <hi>Peter</hi> had a ſon ten dayes old, before he vvas baptized of <hi>John</hi> the Baptiſt, circumciſed the eight day, and he vvas baptized the eleventh of his ſons age, ſure he looked upon his child the tenth day of his age, as one who had ſomething of what was ſealed by Cir<g ref="char:EOLhyphen"/>cumciſion, and conſequently as one who might ſee God, if this day he had died; and ſhall we think the next day, he was to change his judg<g ref="char:EOLhyphen"/>ment, becauſe he was baptized. The like may be ſaid of one whoſe child was circumciſed the 8. or 10. day before Chriſts death, and who believed, and was baptized 8. dayes before his Aſcenſion: And withall to cloſe this point, we ſhal intreat the Author, and all of ſuch a judgment, but impartially to conſider, how much it militates againſt the freeneſſe of Gods grace, that it ſhould be ſaid, not to be of as large extent to ages under the Goſpel, as in the time of the Lavv? againſt the riches of his grace? which is more abundantly, even in extent, com<g ref="char:EOLhyphen"/>municat in the days of the Goſpel, which are times wherein God will
+<pb n="19" facs="tcp:179516:11"/>have all men to come to Repentance, and not a handfull of <hi>Judea</hi> only? againſt the end of Chriſts comming, which was to <hi>comfort all that mourn in Sion, and give them a ſong of gladnes for a ſong of heavines,</hi> to teach, after his appearance and working out the work of mans Sal<g ref="char:EOLhyphen"/>vation. No child dying before it come to the ability of confeſſion, and practick Holineſſe ſhal ſee God. No friends who are dumb can be looked upon as in a poſſibility of glory, becauſe unable to confeſſe; No ſouls can be wrought upon by the Spirit, in the decaying condition of their earthly Tabernacle, except it be in the eſtate wherein they are able to confeſſe, believing mothers of ſuch a judgement, cannot look upon their dying Infants (who often in their eſteem, are to them moreprecious then their own lives) but with deeply ſorrowfull hearts; <hi>Rachell wept for her children, and would not be comforted, be<g ref="char:EOLhyphen"/>cauſe they were not. Math.</hi> 2. at the 18. But ſuch mothers may mourn for them, becauſe they neither are, nor ſhall be, but in a being which is worſe then a thouſand not beings. Such judgement ſeems very in<g ref="char:EOLhyphen"/>croaching upon the freedome of the Spirits working, with the diſ<g ref="char:EOLhyphen"/>comfort it carries along with it, and we ſhall cloſe this part with the rehearſing of two Stories we have heard to this purpoſe (as we conceive) from honeſt Witneſſes: The firſt is, concerning a perſon dying of whom the report ſaid, having been long in a deep wound of Conſcience, ſtill in diſpair, without gripping any Comfort, after the failing of ſpeech, he was deſired by lifting up of his hand, to ſhew if he found any Aſſurance of Mercy, which he did with ſuch chearful<g ref="char:EOLhyphen"/>neſſe of countenance, and calmeneſſe of ſpirit, a-little before the cloſe of his eyes, that all beholders reſted aſſured he had the intimation of Divine favour upon his ſoul. The ſecond, concerning a dumb man, that being in a place where the Lords Supper was to be Celebrate, he ap<g ref="char:EOLhyphen"/>proached with others to partake, and the Miniſter ſcrupling to admit him, he did demonſtrate to him, The Eſſence, Unity, &amp; Trinity of Per<g ref="char:EOLhyphen"/>ſons ſo lively, by folding acloth in three folds, and afterwards drawing all out, and making all one; and Chriſts death and Reſurrection, that he was convinced it was his duty to admit the born Dumb and Deafe. <hi>How unſearchable is Gods Wiſdom, and his wayes paſt finding out.</hi>
+                  </p>
+                  <p>The laſt thing whereupon we pitch (having already drawen out this Examination to a length, beyond our intention) is, the preſſing of its up-taking with expedition, though it is with the firſt con<g ref="char:EOLhyphen"/>veniencie, to be taken up by thoſe who becomming actuall Believers, were never formerly baptized (which is all the Scriptures cited prove,
+<pb n="20" facs="tcp:179516:12"/>yet the Arguments uſed to preſs the expedition of it, compared wi<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> what hath gone before, from clearly to preſſe, without delay, it is to <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> taken up immediatly after perſons conceive it to be a duty, though th<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> have ſo been baptized formerly, as thoſe are whom we think baptized
+<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>deed: wherein there is not a little policy, in beating: he iron while it hote, and diſciplizing thoſe, who to morrow may poſſibly think th<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> have been too raſh. And therefore we ſhal ſhortly repreſent to the con<g ref="char:EOLunhyphen"/>ſideration of all thoſe upon whom it is thus urged: Firſt, to take noti<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> how great a difference there is betwixt the ſudden taking it up by tho<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> who never were formerly baptized, which is no controverſy, a<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> taking it up again, by thoſe who conceiving they were formerly bap<g ref="char:EOLunhyphen"/>tized, have long lived in this judgement, under many comfortab<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Spirituall, enjoyments.</p>
+                  <p>Secondly, what trouble of Conſcience, and diſturbance of ſpirit it ma<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> work in the ſoul, if after it is thus taken up, the perſon who hath ſo take
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> it, ſhall finde he did it not upon ſolide grounds, fear and ſhame, on th<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> one hand, perſwading him to continue in allowing it, and guilt callin<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> on him to repent, on the other. Thirdly, how eaſily Arguments power <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> fully preſſed (I had almoſt ſaid ſubtilly) by thoſe who are well verſed i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the controverſy, may put a preſent conviction upon the ſpirits of thoſe wh<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> for the preſent are unable to anſwer them, though after ſecond thought they may find it was not upon ſolide grounds. He is not onely a ſtrange<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> to others, but alſo to himſelf, who knows not himſelf to differ from him<g ref="char:EOLunhyphen"/>ſelf, ſometimes in judgement. Laſtly, whether it be not a great raſhneſſ on a ſudden, to take it up in a way, upon whoſe grounds ſo many weigh<g ref="char:EOLhyphen"/>ty conſequences follow, of hard judgement towards others, and diſowned by ſo many worthy Learned, and pious Chriſtians as it is, who have mad<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> it their Work, to ſtudy the minde of Chriſt: and many whereof have Seal<g ref="char:EOLhyphen"/>ed the Truth of their doctrine with their bloud, not loving their lives un<g ref="char:EOLhyphen"/>to the death; Whether or not upon ſuch conſiderations any who at preſe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> are under conviction, that it is their duty to take it up again: O<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> hereafter ſhall be have not great reaſon to ſuſpend their practiſe of takin<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> it up, till they ſhal have well weighed reaſons for both parts of the contro<g ref="char:EOLhyphen"/>verſy, and ſeriouſly implored with watching thereto Divine Light, and in<g ref="char:EOLhyphen"/>fluence of the Spirit of truth, to lead them in all truth. If it be commended in the noble <hi>Bereans,</hi> that they ſearched the Scriptures, whether the Apoſtles doctrine was according to them or not: We have much more reaſon to think it praiſe worthy, in theſe days wherein our lots are ſallen, wherein ſo many are ſaying, lo here is Chriſt, and lo there is Chriſt: to try with great delib<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ration, before we truſt: <hi>The fool believeth every thing, but the prudent looketh well to his goings.</hi>
+                  </p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
